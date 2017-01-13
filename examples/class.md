@@ -16,6 +16,7 @@ class ClassName extends ParentClass implements
 }
 
 ```
+
 Absrtact and final keywords.
 ```
 <?php
@@ -34,6 +35,7 @@ abstract class ClassName
 }
 ```
 Method arguments
+
 ```
 <?php
 namespace Vendor\Package;
@@ -46,4 +48,5 @@ class ClassName
     }
 }
 ```
+
 [Home](../index.md)
