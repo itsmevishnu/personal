@@ -14,5 +14,5 @@
 * Closing braces for control structure must *on the next line* of the body.
 * Opening parantheses of control structure must *not contain* space after and before.
 
-[Example](../example/overview.md)
+[Example](../examples/overview.md)
 [Home](../index.md)
