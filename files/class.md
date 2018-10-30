@@ -6,7 +6,7 @@ These rules must be same for `classes`,`interface` and `traits`.
 * List of implements may be split into multiple lines. But each line contain same indent and only one per line.
 
 ## Properties
-* Visibilities must be decalred.
+* Visibilities must be declared.
 * There must be one property decalration at a line.
 
 ## Methods
